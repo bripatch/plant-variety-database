@@ -1,0 +1,31 @@
+id,slug,name,plural_name,parent_category,description,url
+10,allium,Allium,Alliums,,"Onions, garlic, leeks, shallots, and chives.",https://plants.windrivergreens.com/allium
+5,bean,Bean,Beans & Legumes,,"Bush beans, pole beans, lentils, and more. Easy-to-grow protein for every garden.",https://plants.windrivergreens.com/bean
+12,berry,Berry,Berries & Fruits,,"Strawberries, blueberries, raspberries, and small fruits for the home garden.",https://plants.windrivergreens.com/berry
+8,brassica,Brassica,Brassicas,,"Broccoli, cabbage, cauliflower, kale, Brussels sprouts, and kohlrabi.",https://plants.windrivergreens.com/brassica
+11,corn,Corn,Corn,,"Sweet corn, popcorn, flour corn, and ornamental varieties.",https://plants.windrivergreens.com/corn
+16,cucumber,Cucumber,Cucumbers,,"Slicing, pickling, and specialty cucumbers for every garden size.",https://plants.windrivergreens.com/cucumber
+15,eggplant,Eggplant,Eggplants,,"Globe, Japanese, Thai, and specialty eggplant varieties.",https://plants.windrivergreens.com/eggplant
+18,flower,Flower,Flowers,,"Annual, perennial, and cut flowers to beautify your garden year-round.",https://plants.windrivergreens.com/flower
+17,fruit-tree,Fruit Tree,Fruit Trees,,"Apple, pear, cherry, peach, and citrus trees for the home orchard.",https://plants.windrivergreens.com/fruit-tree
+41,grass,Grass,Grasses & Bamboo,,"Ornamental grasses, lawn grasses, and bamboo varieties for structure and movement.",https://plants.windrivergreens.com/grass
+42,ground-cover,Ground Cover,Ground Covers,,"Low-growing plants that spread to cover soil, reduce weeds, and prevent erosion.",https://plants.windrivergreens.com/ground-cover
+4,herb,Herb,Herbs,,Culinary and medicinal herbs. Growing guides from basil to thyme.,https://plants.windrivergreens.com/herb
+45,houseplant,Houseplant,Houseplants,,"Indoor plants for every light condition. Pothos, philodendrons, ferns, and more.",https://plants.windrivergreens.com/houseplant
+3,lettuce,Lettuce,Lettuce & Salad Greens,,"Romaine, butterhead, looseleaf, and specialty salad greens for every season.",https://plants.windrivergreens.com/lettuce
+14,melon,Melon,Melons,,"Watermelon, cantaloupe, honeydew, and specialty melons.",https://plants.windrivergreens.com/melon
+9,microgreen,Microgreen,Microgreens,,Nutrient-dense seedlings harvested in 7-14 days. The fastest crop you can grow.,https://plants.windrivergreens.com/microgreen
+46,native-wildflower,Native Wildflower,Native Wildflowers,,Region-native wildflowers that support pollinators and require minimal maintenance.,https://plants.windrivergreens.com/native-wildflower
+48,nut-tree,Nut Tree,Nut Trees,,"Pecan, walnut, almond, hazelnut, and chestnut trees for home orchards.",https://plants.windrivergreens.com/nut-tree
+38,ornamental-tree,Ornamental Tree,Ornamental Trees,,"Flowering and decorative trees for landscaping. Dogwoods, magnolias, Japanese maples, and more.",https://plants.windrivergreens.com/ornamental-tree
+13,pea,Pea,Peas,,"Snap peas, snow peas, shelling peas, and pea shoots.",https://plants.windrivergreens.com/pea
+2,pepper,Pepper,Peppers,,"Hot peppers, sweet peppers, and everything in between. Find your perfect heat level.",https://plants.windrivergreens.com/pepper
+7,root-vegetable,Root Vegetable,Root Vegetables,,"Carrots, beets, turnips, radishes, and other underground crops.",https://plants.windrivergreens.com/root-vegetable
+40,rose,Rose,Roses,,"Hybrid teas, floribundas, climbers, shrub roses, and old garden varieties.",https://plants.windrivergreens.com/rose
+39,shade-tree,Shade Tree,Shade Trees,,"Large canopy trees for shade, privacy, and property value. Oaks, maples, elms, and more.",https://plants.windrivergreens.com/shade-tree
+47,shrub,Shrub,Shrubs & Hedges,,"Flowering and evergreen shrubs for borders, hedges, and foundation plantings.",https://plants.windrivergreens.com/shrub
+6,squash,Squash,Squash & Cucumbers,,"Summer squash, winter squash, zucchini, and cucumbers.",https://plants.windrivergreens.com/squash
+37,succulent,Succulent,Succulents & Cacti,,Drought-tolerant succulents and cacti for indoor and outdoor gardens. Low-maintenance plants that thrive in dry conditions.,https://plants.windrivergreens.com/succulent
+1,tomato,Tomato,Tomatoes,,From heirloom beefsteaks to cherry varieties. Growing guides for every tomato type.,https://plants.windrivergreens.com/tomato
+43,tropical,Tropical,Tropical Plants,,"Exotic tropical plants including palms, gingers, hibiscus, and bird of paradise.",https://plants.windrivergreens.com/tropical
+44,vine,Vine,Vines & Climbers,,"Climbing plants for trellises, arbors, and walls. Clematis, wisteria, jasmine, and more.",https://plants.windrivergreens.com/vine

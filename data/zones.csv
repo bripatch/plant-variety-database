@@ -1,0 +1,14 @@
+zone_number,min_temp_f,max_temp_f,avg_last_frost,avg_first_frost,growing_season_days
+1,-60,-50,June 15,August 10,55
+2,-50,-40,June 1,August 25,85
+3,-40,-30,May 15,September 15,120
+4,-30,-20,May 10,September 25,135
+5,-20,-10,April 30,October 5,155
+6,-10,0,April 15,October 15,180
+7,0,10,April 1,October 30,210
+8,10,20,March 15,November 15,240
+9,20,30,February 15,December 1,290
+10,30,40,January 31,December 15,320
+11,40,50,None,None,365
+12,50,60,None,None,365
+13,60,70,None,None,365
