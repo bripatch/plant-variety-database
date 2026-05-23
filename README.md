@@ -62,13 +62,17 @@ You are free to share, adapt, and build on this data — including for commercia
 
 ### Citation (BibTeX)
 
+For academic use, cite a specific tagged release (each release is an immutable snapshot — see [Releases](https://github.com/bripatch/plant-variety-database/releases)):
+
 ```bibtex
 @misc{windrivergreens_plantdb_2026,
-  author = {Wind River Greens},
-  title  = {Plant Variety Database},
-  year   = {2026},
-  url    = {https://plants.windrivergreens.com},
-  note   = {CC BY 4.0}
+  author       = {{Wind River Greens}},
+  title        = {Plant Variety Database},
+  year         = {2026},
+  version      = {1.0.0},
+  url          = {https://github.com/bripatch/plant-variety-database},
+  howpublished = {GitHub repository},
+  note         = {CC BY 4.0. Live tool: \url{https://plants.windrivergreens.com}}
 }
 ```
 
@@ -95,9 +99,9 @@ Every variety in this dataset is **backed by at least one real data source** —
 
 ## Updates
 
-This dataset reflects the state of [plants.windrivergreens.com](https://plants.windrivergreens.com) as of the export date below. The live site is updated continuously; this snapshot will be refreshed periodically.
+This dataset auto-refreshes from the live production database **monthly** via GitHub Actions. The live site at [plants.windrivergreens.com](https://plants.windrivergreens.com) updates continuously; this snapshot batches changes into a single monthly commit.
 
-**Last exported:** see `data/varieties.csv` file mtime.
+For academic use, pin to a specific [tagged release](https://github.com/bripatch/plant-variety-database/releases) — those are immutable. The `main` branch tracks the latest export and will change over time.
 
 ## Issues, corrections, contributions
 
