@@ -5,7 +5,7 @@ Ready-to-paste pitches for external dataset hosts. Both are mirrors of the main 
 | File | Target | Status |
 |------|--------|--------|
 | [`kaggle.md`](kaggle.md) | [kaggle.com/datasets/windrivergreens/plant-variety-database](https://www.kaggle.com/datasets/windrivergreens/plant-variety-database) | ✅ Live (May 26, 2026) |
-| [`huggingface-README.md`](huggingface-README.md) | [huggingface.co/new-dataset](https://huggingface.co/new-dataset) | ⏳ Pending — create as `windrivergreens/plant-variety-database` |
+| [`huggingface-README.md`](huggingface-README.md) | [huggingface.co/datasets/windrivergreens/plant-variety-database](https://huggingface.co/datasets/windrivergreens/plant-variety-database) | ✅ Live (May 26, 2026) |
 
 ## Other dataset hosts worth considering
 

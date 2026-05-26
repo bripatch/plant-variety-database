@@ -17,6 +17,7 @@ The full interactive version — variety pages, planting calendars per zone, com
 |------|------|
 | GitHub (canonical) | [github.com/bripatch/plant-variety-database](https://github.com/bripatch/plant-variety-database) |
 | Kaggle | [kaggle.com/datasets/windrivergreens/plant-variety-database](https://www.kaggle.com/datasets/windrivergreens/plant-variety-database) |
+| Hugging Face | [huggingface.co/datasets/windrivergreens/plant-variety-database](https://huggingface.co/datasets/windrivergreens/plant-variety-database) |
 
 The GitHub repo is canonical and auto-refreshes monthly. Mirrors are kept in sync but may lag by up to a month.
 
