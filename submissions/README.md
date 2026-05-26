@@ -2,10 +2,10 @@
 
 Ready-to-paste pitches for external dataset hosts. Both are mirrors of the main GitHub repo; the goal is **discovery + backlinks**, not forking the data.
 
-| File | Target | What to do |
-|------|--------|------------|
-| [`kaggle.md`](kaggle.md) | [kaggle.com/datasets/new](https://www.kaggle.com/datasets/new) | Upload the 7 CSVs from `data/`. Paste Title / Subtitle / Description / Tags from the file. |
-| [`huggingface-README.md`](huggingface-README.md) | [huggingface.co/new-dataset](https://huggingface.co/new-dataset) | Create dataset, `git clone` it, copy this file in as `README.md`, copy the 7 CSVs from `data/`, `git push`. |
+| File | Target | Status |
+|------|--------|--------|
+| [`kaggle.md`](kaggle.md) | [kaggle.com/datasets/windrivergreens/plant-variety-database](https://www.kaggle.com/datasets/windrivergreens/plant-variety-database) | ✅ Live (May 26, 2026) |
+| [`huggingface-README.md`](huggingface-README.md) | [huggingface.co/new-dataset](https://huggingface.co/new-dataset) | ⏳ Pending — create as `windrivergreens/plant-variety-database` |
 
 ## Other dataset hosts worth considering
 

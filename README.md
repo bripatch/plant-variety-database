@@ -11,6 +11,15 @@ The hero rows aren't the 1,972 varieties (USDA PLANTS already has ~98K species).
 
 The full interactive version — variety pages, planting calendars per zone, companion-plant prose, troubleshooting guides, and per-county zone maps for all 50 US states + 13 Canadian provinces — lives at **[plants.windrivergreens.com](https://plants.windrivergreens.com)**.
 
+## Also available on
+
+| Host | Link |
+|------|------|
+| GitHub (canonical) | [github.com/bripatch/plant-variety-database](https://github.com/bripatch/plant-variety-database) |
+| Kaggle | [kaggle.com/datasets/windrivergreens/plant-variety-database](https://www.kaggle.com/datasets/windrivergreens/plant-variety-database) |
+
+The GitHub repo is canonical and auto-refreshes monthly. Mirrors are kept in sync but may lag by up to a month.
+
 ## Why this dataset exists
 
 USDA PLANTS gives you species-level taxonomy but no cultivars and no planting calendars. Johnny's Selected Seeds catalog gives you cultivar-level days-to-maturity but no zone-by-zone schedule and no nutrition. NC State Extension gives you growing prose but no structured cultivar database. Hardiness zone shapefiles give you a map but no variety information.
